@@ -1,5 +1,5 @@
 module TidalFluxConfigurations
 
-# package code goes here
+const config = Dict{Symbol,Any}()
 
 end # module
